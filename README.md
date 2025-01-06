@@ -1,4 +1,4 @@
-# Machine Learning Playground
- A repository in which I test out various Machine Learning and AI implementations and document my findings for future use.
+# Artificial Intelligence Playground
+ A repository in which I test out various Artificial Intelligence implementations and document my findings.
 
  Last Updated: 1/6/25
